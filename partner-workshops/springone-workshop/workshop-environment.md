@@ -39,7 +39,7 @@ To complete the exercises in the workshop, you need an account for the following
 * Snyk account and personal API token
 * Github account and personal token with write permissions.
 * Docker Hub account and personal API token
-* Scatch pad application to cut-n-paste API keys, commands, etc.
+* Scratch pad application to cut-n-paste API keys, commands, etc.
 
 Besides Snyk solutions, we used the following technologies to minimize requirements and demonstrate an application deployment.
 
